@@ -1,75 +1,73 @@
-# 👋 Hi, I'm Virgiawan Aziz Listianto
+# ✨ Hello, I'm Muhamad fikri alazri
 
-Creating digital stuff that (hopefully) makes life easier.
+Building useful digital solutions, one project at a time.
 
-📍 Batam, Indonesia  
-📫 virgiawan.aziz7711@email.com  
-🔗 [LinkedIn](#) | [GitHub](https://github.com/Vir7-dev)
-
----
-
-## 🧑‍💻 About Me
-
-I’m an Informatics student who likes building things that actually solve problems.
+📍 Based in Batam, Indonesia
+📧 [falazrieee@email.com]
+🌐 [LinkedIn](#) • [GitHub](https://github.com/falazri)
 
 ---
 
-## 🎓 Education
+## 👨‍💻 Profile
 
-**Politeknik Negeri Batam**  
-Software Engineering Technology (2025 - Present)
-
-**SMK 4 Batam**  
-Software Engineering (2023 - 2025)
+An Informatics student passionate about creating applications that solve real-world problems and improve user experience.
 
 ---
 
-## 💼 Projects Journey
+## 🎓 Academic Background
 
-### 🚀 Koperasi Online (PBL Project)
-Web-based system for campus transactions  
-**Tech:** Laravel, PHP, React, Tailwind  
-👉 Main project focused on real-world implementation
+**Politeknik Negeri Batam**
+Diploma in Software Engineering Technology *(2025 - Present)*
 
----
-
-### ☝️ SuaraWarga (PBL Project)
-Voting system for residents  
-**Tech:** Python, HTML, CSS
+**SMA Negeri 12 Batam**
+*(2023 - 2025)*
 
 ---
 
-### 🎨 Landing Page (High School Project)
-Simple static website project  
-**Tech:** HTML, CSS
+## 📁 Project Experience
+
+### 🔧 Koperasi Online *(PBL Project)*
+
+A web application designed for managing campus cooperative transactions
+**Stack:** Laravel, PHP, React, Tailwind CSS
+➡️ Focused on implementing real-case business logic
 
 ---
 
-## 🧠 Skills
+### 🗳️ SipWarga *(PBL Project)*
 
-**Programming Languages**
-- Python
-- PHP
-- JavaScript
-
-**Tools**
-- Git
-- MySQL
-- Figma
-
-**Soft Skills**
-- Problem Solving
-- Communication
-- Leadership
+A digital voting platform for community decision-making
+**Stack:** javascript, HTML, CSS, boostrap, PHP
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Technical Skills
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Vir7-Dev&show_icons=true&theme=dark)
+**Languages**
+
+* Html
+* PHP
+* JavaScript
+
+**Development Tools**
+
+* Git
+* MySQL
+* Figma
+
+**Interpersonal Skills**
+
+* Critical Thinking
+* Team Communication
 
 ---
 
-## 🤝 Let's Connect
+## 📈 GitHub Overview
 
-Feel free to reach out for collaboration or discussion 🚀
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vir7-Dev\&show_icons=true\&theme=dark)
+
+---
+
+## 🤝 Get in Touch
+
+Open for collaboration, discussions, or just sharing ideas 💡
